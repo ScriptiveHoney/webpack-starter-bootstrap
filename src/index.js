@@ -1,6 +1,9 @@
-require("../node_modules/bootstrap/scss/bootstrap-reboot.scss");
+//require("../node_modules/bootstrap/scss/bootstrap-reboot.scss");
 /* Bootsrap Grid with "utilities/sizing.scss  /text.scss" added */
-require("../node_modules/bootstrap/scss/bootstrap-grid.scss");
+
+//require("../node_modules/bootstrap/scss/bootstrap-grid.scss");
+require("../assets/stylesheets/bootstrap_config.scss");
+
 require("../assets/stylesheets/main.scss");
 
 
